@@ -1,0 +1,73 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.profile
+{
+	background-color: black;
+	padding: 10px 5px 10px 5px;
+	margin: 5px 0px 5px 0px; 
+}
+
+.main img
+{
+	float: left;
+	width:60px;
+
+}
+.career p
+{
+	display: block;
+}
+	
+
+.career h2
+{
+	float: right;
+
+}
+.career p 
+{
+	border: solid 3px white;
+	padding: 20px 10px 10px 10px;
+	margin: 10px 0px 10px 0px; 
+	color: white;
+
+}
+.career h3
+{
+	
+	color: white;
+}
+.career p h3 
+{
+	background-color:black;
+}
+.edu ul .skill h3 .pos h3 .act h3 .hob h3 .career p
+{
+	border: solid 3px white;
+	padding: 20px 10px 10px 10px;
+	margin: 10px 0px 10px 0px; 
+	color: white;
+}
+.del h1
+{
+	position: absolute;
+	top: 0;
+	right: 10px;
+}
+.main
+{
+margin: 5px;
+	width: 97%;
+	height: 100%;
+	border: 10px solid green;
+	position: relative;
+
+}
+.pro h1
+{
+	position: absolute;
+	top: 0;
+	right: 10px;
+}
